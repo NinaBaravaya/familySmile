@@ -1,0 +1,70 @@
+section .team{
+
+    margin: 0 40px;
+
+}
+
+
+
+
+
+.hotbutton{
+    display: block;
+    position: relative;
+
+}
+
+.hotbutton ul {
+
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+.hotbutton .span4 {
+    position: relative;
+    width: 280px;
+    height: 340px;
+    padding: 0;
+    margin-left: 38px;
+    border: 1px solid #c8c6c6;
+
+}
+
+.zag_2{
+    display: block;
+    text-align: center;
+    color: #6c6d71;
+    font: 18px GothamProRegular,sans-serif;
+
+}
+
+.inf{
+    font-size: 16px;
+    color: #afb1b8;
+}
+
+
+.next_our_team{
+    text-align: right;
+    position: absolute;
+    top:255px;
+    left: 20px;
+    width: 250px;
+    height: 29px;
+    border-top: 1px solid #c8c6c6;
+
+}
+
+
+
+.band_our_team img{
+    margin: 15px;
+}
+
+.next_our_team img{
+    margin: 30px 0 0 0;
+}
+

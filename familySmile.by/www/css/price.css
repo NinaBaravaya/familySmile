@@ -1,0 +1,80 @@
+.second_price{
+    margin: 20px auto;
+    width: 920px;
+
+}
+
+
+.second_price table {
+    width: 920px;
+
+    background: white;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+
+.second_price .one{
+    width: 820px;
+}
+
+.second_price .two{
+    width: 260px;
+
+}
+
+.second_price td .decor{
+    text-decoration: line-through;
+}
+
+.second_price td .action{
+    color: #ff7260;
+
+}
+
+.second_price th {
+
+    width: 920px;
+    font: 20px GothamProRegular,sans-serif;
+    color: #4c4c4c;
+    border-bottom: 1px solid #9bd7d5;
+    padding: 10px 15px;
+}
+.second_price td {
+
+    font: 16px GothamProLight,sans-serif;
+    color: #6c6d71;
+    padding: 9px 8px;
+    transition: .3s linear;
+}
+.second_price tr:hover td{
+    background: #EFF5F5;
+    box-shadow: 0 1px 2px #d1d1d1;
+}
+
+.second_price table a{
+    margin-left: 10px;
+    text-decoration: underline;
+    color: #ff7260;
+}
+.second_price p{
+    font-size: 14px;
+}
+.attention_price{
+    background-color: #fff;
+    width: 1080px;
+    margin: 80px 0 40px 0;
+    padding: 0;
+    text-align: center;
+    font: 16px GothamProRegular,sans-serif;
+}
+
+.attention_price p{
+    margin: 0;
+    font-size: 16px;
+}
+
+.attention_price a{
+    text-decoration: underline;
+    color: #ff7260;
+}

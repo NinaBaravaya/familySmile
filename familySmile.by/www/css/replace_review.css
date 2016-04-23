@@ -1,0 +1,144 @@
+.review_form{
+    margin-top: 20px;
+    display: inline-block;
+    position: relative;
+    border: #CCC 1px solid;
+    width: 1000px;
+    height: 1360px;
+    padding: 0;
+}
+
+.review_form  h2{
+    font: 24px 'GothamProRegular';
+    width: 450px;
+}
+
+.second_reviews  form{
+
+    font: 16px 'GothamProLight';
+    display: inline-block;
+    position: relative;
+    width: 920px;
+    margin: 40px;
+    padding: 0;
+
+}
+
+form textarea{
+    width: 100%;
+    height: 150px;
+    border: #CCC 1px solid;
+    font: 16px 'GothamProLight';
+    color: #6c6d71;
+}
+
+
+
+form ul{
+    width: 920px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+
+.form-horizontal li{
+    float: left;
+    position: relative;
+}
+
+
+form input,select{
+    border: #CCC 1px solid;
+     display:inline-block;
+     margin: 0 20px 20px 0;
+     padding: 10px;
+      font: 16px 'GothamProLight';
+    color: #6c6d71;
+     line-height: 24px;
+     font-weight: 400;
+
+ }
+
+.height_buttom{
+    padding: 0;
+    margin:0;
+}
+.row td{
+    padding:2px 0;
+}
+
+.row{
+    display:inline;
+}
+
+.span6{
+    float: left;
+    width: 460px;
+
+}
+
+.span7 {
+    float: left;
+    width: 430px;
+    margin-left: 30px;
+}
+
+.span12{
+    float: left;
+    width: 100%;
+}
+.input{
+    width: 50px;
+    text-align: center;
+
+}
+
+.input_result{
+
+   margin:0 0  5px 0;
+
+}
+
+.btn {
+    font: 20px 'helveticaneuecyr-roman';
+    display: inline-block;
+    padding: 8px 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+    text-transform: none;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #fff;
+    background-color: #ff7260;
+    border: none;
+    border-radius: 2px;
+    transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+.btn:hover{
+    background-color: #4c4c4c;
+}
+
+.captch-box{
+    display: inline-block;
+    position: relative;
+}
+
+.captch-box .captcha-img{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 310px;
+
+}
+
+
+.review_form p{
+    margin: 20px;
+}

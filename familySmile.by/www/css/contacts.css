@@ -1,0 +1,58 @@
+.ya_map{
+    display: inline-block;
+    position: relative;
+    margin: 0 0 0 30px;
+    padding: 0;
+    color: #6c6d71;
+    font: 18px 'GothamProRegular', sans-serif;
+    line-height: 24px;
+}
+
+
+.ya_map .address {
+    background: rgba(255,255,255,0.8);
+    width: 280px;
+    padding:20px 40px;
+
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-box-shadow: 3px 3px 6px 0 rgba(0,0,0,0.2);
+    -moz-box-shadow: 3px 3px 6px 0 rgba(0,0,0,0.2);
+    box-shadow: 3px 3px 6px 0 rgba(0,0,0,0.2);
+    position: absolute;
+    top: 180px;
+    left: 130px;
+}
+.ya_map .email_color{
+    color: #00969b;
+    text-decoration: underline;
+}
+.ya_map .phone_color{
+    color: #ff7260;
+}
+
+.online_appointnemt{
+    font: 16px 'GothamProLight';
+    border: 1px solid #CCC;
+    width: 760px;
+    height: 650px;
+    display: inline-block;
+    padding: 0;
+    margin: 20px 160px;
+    background: #fff;
+}
+
+.online_appointnemt form{
+    margin: 40px;
+    width: 680px;
+
+
+}
+
+.online_appointnemt h2{
+    font: 24px 'GothamProRegular';
+    width: 450px;
+
+}

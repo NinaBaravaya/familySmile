@@ -1,0 +1,179 @@
+
+
+
+
+.slider {
+    position: relative;
+    margin-left: 40px;
+    z-index: 0;
+    width: 1000px;
+    height: 480px;
+    overflow: hidden;
+
+}
+.slider ul,
+.slider li {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.slider ul {
+    width: 9999px;
+}
+.slider ul li {
+    list-style-type: none;
+    float: left;
+    width: 1000px;
+    height: 480px;
+}
+.slider .nav {
+    position: absolute;
+    left: 15px;
+    bottom: 12px;
+}
+.slider .nav span {
+    opacity: 0.9;
+    background: #fff;
+    margin: 0 8px 0 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    overflow: hidden;
+    display: block;
+    float: left;
+    box-shadow: 0 1px 2px #000;
+}
+.slider .nav span.on {
+    background: #2ea8ab;
+}
+
+
+.fs_text {
+    font: 30px GothamProLight,sans-serif;
+    color: #6c6d71;
+    text-align: center;
+    padding: 0;
+
+
+}
+
+.second table {
+    font: 14px helveticaneuecyr-roman,sans-serif;
+    color: #6c6d71;
+    width: 1000px;
+    margin: auto;
+    border-collapse: collapse; /*??????? ?????? ?????????? ????? ????????*/
+    border: 1px solid #F2F2F2; /*????????????? ??? ??????? ??????? ??????? ?????? ????? ???????? 1px*/
+    text-align: center;
+}
+.zag{
+    font-size: 16px;
+    color: #4c4c4c;
+}
+.second tr {
+    border-top: 10px solid #F2F2F2;
+    border-bottom: 10px solid #F2F2F2;
+}
+
+.second td {
+border: 1px solid #F2F2F2;
+}
+button[name="second"] {
+    position: relative;
+    top: -20px;
+    left: 430px;
+    font-size: 20px;
+    color: #fff;
+
+}
+
+.zag_2{
+    color: #2ea8ab;
+    font: 20px helveticaneuecyr-roman,sans-serif;
+
+}
+
+.next{
+    position: absolute;
+    top:250px;
+    left: 20px;
+    width: 280px;
+    height: 29px;
+    border-top: 1px solid #c8c6c6;
+    text-align: right;
+}
+
+
+
+
+.hotbutton_gl span{
+    position: absolute;
+    top:230px;
+    left: 120px;
+    font: 18px GothamProRegular,sans-serif;
+    color: #6c6d71;
+}
+
+
+.uslugi{
+    width: 1080px;
+
+    padding: 0;
+    margin-top: 0;
+    background: url(../img_glavnaya/bg_clinika.jpg) 100% 100% no-repeat;
+    text-align: center;
+}
+.hotbutton_gl{
+    display: block;
+    position: relative;
+
+}
+
+.hotbutton_gl ul {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+
+
+.band {
+    position: relative;
+    width: 320px;
+    height: 300px;
+    padding: 0;
+    margin-left: 28px;
+    border: 1px solid #c8c6c6;
+
+}
+.band img{
+    margin: 20px;
+}
+
+.next img{
+    margin: 10px;
+}
+
+.link_usl{
+    margin-top: 30px;
+}
+.link_usl a{
+
+    text-decoration: underline;
+    color: #6c6d71;
+    font: 18px helveticaneuecyr-roman,sans-serif;
+}
+
+.size2{
+    font-size: 24px;
+
+}
+
+.nav_bottom{
+    display: inline;
+    width: 200px;
+}

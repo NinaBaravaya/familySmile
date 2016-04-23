@@ -1,0 +1,101 @@
+.second_reviews {
+    font: 16px GothamProRegular,sans-serif;
+    width: 1000px;
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    margin: 0 40px 0 40px;
+}
+
+
+.first h2{
+    width: 450px;
+}
+
+
+
+.pagination{
+    margin-top: 20px;
+    font: 12px 'GothamProRegular';
+
+}
+.replace_review{
+    float: left;
+    margin-top: 15px;
+    padding: 0;
+}
+
+.replace_review a{
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: underline;
+    color: #ff7260;
+}
+
+.pagination li a{
+    margin: 0 3px 0 0;
+    padding: 4px 6px;
+    text-decoration: none;
+    background: #fff;
+    border: 1px solid #d3d3d4;
+    color: #4c4c4c;
+}
+.pagination li a:hover {
+    background: #d3d3d4;
+}
+ul.pagination {
+
+    margin-left:890px;
+    padding: 0;
+    list-style: none;
+
+}
+
+ul.pagination > li {
+    float: left;
+}
+
+.second_reviews .otzyv_1{
+     width: 960px;
+     height: 145px;
+     border: 1px solid #b3e1df;
+     margin: 20px auto;
+     display: block;
+    position: relative;
+
+ }
+
+.second_reviews .otzyv_1 img{
+    width: 170px;
+    height: 125px;
+
+    margin: 10px;
+
+}
+
+.second_reviews .otzyv_1 span{
+    position:absolute;
+    top: 10px;
+    left: 220px;
+
+}
+
+.second_reviews .otzyv_1 .data{
+    left: 860px;
+}
+
+
+.second_reviews .otzyv_1 p{
+  position: absolute;
+    top: 30px;
+    left: 220px;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.second_reviews .otzyvs a{
+    font: 12px 'helveticaneuecyr-italic', sans-serif;
+    color: #ff7260;
+    text-decoration: underline;
+    margin-left: 10px;
+}

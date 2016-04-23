@@ -1,0 +1,88 @@
+
+
+.first{
+    margin: auto 40px;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    width: 1000px;
+    height: 370px;
+    background: url(../img_o_nas/bg_o_nas.jpg) no-repeat center;
+
+}
+
+.text_goal{
+    text-align: center;
+    margin:120px 0;
+    position: relative;
+
+    width: 1000px;
+    height: 180px;
+
+}
+.text_goal h2{
+    font: 36px GothamProLight,sans-serif;
+    color: #000;
+}
+
+.text_goal p{
+font: 24px GothamProLight,sans-serif;
+color: #6c6d71;
+}
+
+button[name="one"] {
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+
+
+.second_o_nas {
+    font: 16px GothamProRegular,sans-serif;
+    width: 1000px;
+    display: inline-block;
+    position: relative;
+    background-color: #fff;
+    margin: 0 40px 0 40px;
+
+
+}
+
+.attention{
+    padding: 10px 40px;
+
+    background-color: #eff5f5;
+    font: 16px GothamProRegular,sans-serif;
+    width: 1000px;
+}
+
+.attention p{
+    position: relative;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.attention a{
+    text-decoration: underline;
+    color: #ff7260;
+}
+
+
+.quote_l{
+    position: absolute;
+    display: inline-block;
+}
+.quote_r{
+    display: inline-block;
+}
+
+
+.imgCenter{
+    margin: 40px;
+    text-align: center;
+
+}
+

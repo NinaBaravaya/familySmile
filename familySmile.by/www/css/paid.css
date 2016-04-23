@@ -1,0 +1,30 @@
+.first h2{
+    width: 400px;
+}
+
+.second_paid {
+    font: 16px GothamProRegular,sans-serif;
+    width: 1000px;
+    display: inline-block;
+    position: relative;
+    margin: 20px 40px;
+
+}
+
+.second_paid .zag_3{
+    font: 20px GothamProRegular,sans-serif;
+    color: #4c4c4c;
+    margin: 10px;
+
+    width: 350px;
+}
+.second_paid span {
+    border-bottom: 1px solid #9bd7d5;
+}
+
+.second_paid .text_zag_3{
+    margin-bottom: 40px;
+}
+.text_zag_3 img{
+    margin-left: 30px;
+}

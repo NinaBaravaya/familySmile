@@ -1,0 +1,62 @@
+
+
+.band_usl {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    padding: 0;
+    margin-left: 22px;
+    margin-bottom: 20px;
+    border: 1px solid #c8c6c6;
+    text-align: center;
+}
+.band_usl img{
+    margin: 10px;
+}
+
+
+.second_o_nas{
+    margin: 20px 40px;
+}
+
+.next{
+    left: 10px;
+}
+
+.next img{
+    margin-left: 208px;
+}
+.hotbutton_usl span {
+
+    position: absolute;
+    top: 230px;
+    left: 0;
+    font: 16px GothamProRegular,sans-serif;
+    color: #6c6d71;
+}
+.text{
+
+    width: 300px;
+    text-align: center;
+
+
+}
+
+.hotbutton_usl .two{
+    display: block;
+    margin-left: 150px;
+
+}
+
+.hotbutton_usl{
+    display: block;
+    position: relative;
+
+}
+
+.hotbutton_usl ul {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}

@@ -1,0 +1,20 @@
+section .first_usl{
+    margin: auto 40px;
+    padding: 0;
+    display: inline-block;
+    position: relative;
+    width: 1000px;
+    height: 370px;
+    background: url(../usluga_1/bg_usluga_1.jpg) no-repeat center;
+
+}
+
+
+.usluga_1{
+    float: none;
+}
+
+
+.text_long{
+    width: 650px;
+}

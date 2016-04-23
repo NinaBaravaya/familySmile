@@ -1,0 +1,39 @@
+nav{
+    z-index: 1;
+    -webkit-transition: box-shadow 400ms;
+    transition: box-shadow 400ms;
+}
+
+header{
+    z-index: 1;
+    -webkit-transition: box-shadow 400ms;
+    transition: box-shadow 400ms;
+}
+
+
+
+.sticky{
+    width: 1080px;
+    background-color: #fff;
+    position: fixed;
+    top: 0; left: auto;
+    z-index: 20;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+
+}
+
+.size{
+    background-image: url(../images/logo_text1.png), url(../images/logo_text2.png);
+    background-position: left bottom, right bottom;
+    background-repeat: no-repeat;
+    width: 145px;
+    height: 38px;
+    margin-left: 40px;
+    margin-right: 29px;
+    transition: 0.5s;
+}
+
+.display{
+    display: none;
+}
+

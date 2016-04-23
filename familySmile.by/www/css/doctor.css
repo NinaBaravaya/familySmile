@@ -1,0 +1,95 @@
+
+.doctor {
+
+    display: inline-block;
+    position: relative;
+    width: 1000px;
+    margin: 20px 40px;
+    padding:0;
+}
+
+.doctor_info{
+    border: 1px solid #f0f0f0;
+    width: 390px;
+    height: 420px;
+    margin: 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    background: #F9F9F9;
+    font-size: 13px;
+    -moz-box-shadow: 0 1px 2px -1px #888;
+    -webkit-box-shadow: 0 1px 2px 0 #888;
+    box-shadow: 0 1px 2px -1px #888;
+}
+
+.next_doctor{
+    border-top: 1px solid #c8c6c6;
+    width: 360px;
+    margin: 0 15px;
+}
+
+.doctor img{
+    margin: 15px;
+}
+
+.info_text {
+    font: 16px GothamProLight,sans-serif;
+    width: 590px;
+    height: 450px;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 370px;
+    background-color: #fff;
+    margin: 0 40px 0 40px;
+}
+
+.info_text p{
+    font: 18px GothamProRegular,sans-serif;
+    border-bottom: 1px solid #CCC;
+}
+.zag_0 {
+    margin: 15px;
+    display: block;
+    color: #6c6d71;
+    font: 18px GothamProRegular,sans-serif;
+}
+
+
+.zag_3 {
+    margin-top: 10px;
+    display: block;
+    color: #6c6d71;
+    font: 18px GothamProRegular,sans-serif;
+}
+
+.zag_4 {
+    margin-top: 10px;
+    display: block;
+    color: #afb1b8;
+    font: 16px GothamProRegular,sans-serif;
+}
+
+.back-to-btn a {
+    margin-top: 20px;
+    clear: both;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #fff;
+    text-decoration: none;
+    background: url(../img_our_team/doctors/btn-arrow.png) no-repeat left #ff7260;
+    padding: 6px 20px 7px 50px;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -o-transition: 0.5s;
+    -ms-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.back-to-btn a:hover{
+    background: url(../img_our_team/doctors/btn-arrow.png) no-repeat left #4c4c4c;
+}
